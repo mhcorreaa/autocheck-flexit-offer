@@ -17,7 +17,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 BBOX = (844, 241, 1198, 931)
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1457885394854088872/zcAjROxUg39I1lHap-9bjWkO4Cj0bdTnsR05UI8bLILefKAxeDzF99rcBHqdeBNzkt7n"
+DISCORD_WEBHOOK_URL = ""
 
 TARGETS = [
     "costanera center",
